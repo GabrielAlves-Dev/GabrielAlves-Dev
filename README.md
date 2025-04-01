@@ -33,6 +33,6 @@ Sou um desenvolvedor de software apaixonado por tecnologia e em busca de oportun
 ## 🎖️ Extracurricular
 
 - **Voluntário:** Membro da equipe de desenvolvimento da Startup **ADDE - Ateliê de Design Digital Ecológico**  
-- **Olimpíada Internacional Matemática sem Fronteiras 2018 - **Ouro Estadual e Bronze Nacional** 
-- **Olimpíada Internacional Matemática sem Fronteiras 2019 - **Ouro Estadual e Ouro Nacional.**
+- **Olimpíada Internacional Matemática sem Fronteiras 2018 - Ouro Estadual e Bronze Nacional** 
+- **Olimpíada Internacional Matemática sem Fronteiras 2019 - Ouro Estadual e Ouro Nacional.**
 - **Olimpíada Tubarão de Matemática 2019 - Menção Honrosa.**
