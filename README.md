@@ -2,12 +2,12 @@
 
 ### 🚀 Sobre mim
 - 💻 Desenvolvedor apaixonado por tecnologia
-- 🎯 Foco em **Java, Spring Boot, React e PostgreSQL**
+- 🎯 Foco em **Java, Spring Boot e PostgreSQL**
 - 📖 Sempre aprendendo algo novo
 
 ### 📫 Como me encontrar?
-- ✉️ Email: [seu-email-aqui@example.com](mailto:seu-email-aqui@example.com)
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- ✉️ Email: [pessoa80gabriel@gmail.com](mailto:pessoa80gabriel@gmail.com)
+- 💼 LinkedIn: [Gabriel Alves](https://www.linkedin.com/in/gabriel-alves-6155ab237/)
 - 🚀 Portfólio: [Seu Site](https://seusite.com)
 
 ### 🔧 Tecnologias e Ferramentas
