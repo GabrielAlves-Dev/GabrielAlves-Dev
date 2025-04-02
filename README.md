@@ -10,7 +10,7 @@ Sou um desenvolvedor de software com experiência em **Java, desenvolvimento de 
 
 ---
 
-## 📖 **Templo do Conhecimento em Formação**  
+## 📖 **Templo do Conhecimento em Formação (Atualmente estudando)**  
 
 _"The hero must train before facing Ganon!"_  
 
