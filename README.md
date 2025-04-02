@@ -1,10 +1,6 @@
 # 🏹 Olá, eu sou Gabriel Alves ⚔️  
 
-<img src="https://media.giphy.com/media/yoJC2A59OCZHs1LXvW/giphy.gif" width="100%">
-
-Sou um desenvolvedor de software com experiência em **Java, desenvolvimento de APIs REST e bancos de dados PostgreSQL**. Minha jornada na tecnologia é guiada pelo aprendizado contínuo e pela busca por soluções eficientes e escaláveis.  
-
-Atualmente, estou explorando novas tecnologias como **Spring Boot, Machine Learning e Salesforce Platform**, sempre aprimorando minhas habilidades para enfrentar desafios cada vez maiores. Assim como um aventureiro em Hyrule, sigo aprimorando minha técnica antes da próxima grande batalha.  
+Sou um desenvolvedor de software com experiência em **Java, desenvolvimento de APIs REST e bancos de dados PostgreSQL**. Minha jornada na tecnologia é guiada pelo aprendizado contínuo e pela busca por soluções eficientes e escaláveis. Atualmente, estou explorando novas tecnologias como **Spring Boot, Machine Learning e Salesforce Platform**, sempre aprimorando minhas habilidades para enfrentar desafios cada vez maiores. Assim como um aventureiro em Hyrule, sigo aprimorando minha técnica antes da próxima grande batalha.  
 
 ---
 
